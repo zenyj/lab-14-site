@@ -21,3 +21,37 @@ body, html {
   transform: translate(-50%, -50%);
   color: white;
 }
+
+div.stuff {
+  width: 250px;
+  /* height: fit-content; */
+  word-wrap: break-word;
+  overflow: auto;
+  text-align: center;
+  border-width: 1px;
+  border-style: dotted;
+  border-color: black;
+  float: left;
+  margin: 10px;
+  padding: 5px;
+}
+
+div#first {
+background-color:#DB9385   
+}
+
+div#second {
+background-color:#1D0902
+}
+
+div#third {
+background-color:#B4B1C3
+}
+
+div#fourth {
+background-color:#432114
+}
+
+div#fifth {
+background-color:#352D46
+}
