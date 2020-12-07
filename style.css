@@ -1,7 +1,16 @@
 body, html {
     height: 100%;
+    font-family: 'Dancing Script', cursive;
+    font-weight: 50;
 }
 
+
+
+/* use Major Mono Display for all headings h1—h6 */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Major Mono Display', monospace;
+    /* font-family rule copied from Google Fonts */
+}
 
 .hero-image {
   background-image: url("fauci.v01.jpg");
